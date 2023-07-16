@@ -18,7 +18,7 @@ if (t > 5)
 printf("greater than 5\n");
 else if (t == 0)
 printf("0\n");
-else
+else if (t < 6 != 0)
 printf("and is less than 6 and not 0\n");
 return (0);
 }
