@@ -6,7 +6,7 @@
  * main = Main Entry Point
  * Return : every time 0 (Success)
  */
-int main(void);
+int main(void)
 {
 	int n, t;
 
